@@ -3,7 +3,7 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadIdentifier</key>
-		<string>com.github.730571bc-0591-41d4-bc15-43e12b4c74cd.alacarte</string>
+		<string>com.github.d53c8667-5493-4e37-abf4-ddf8ebe3e06f.alacarte</string>
 		<key>PayloadRemovalDisallowed</key>
 		<false/>
 		<key>PayloadScope</key>
@@ -11,15 +11,13 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>730571bc-0591-41d4-bc15-43e12b4c74cd</string>
+		<string>d53c8667-5493-4e37-abf4-ddf8ebe3e06f</string>
 		<key>PayloadOrganization</key>
 		<string>Company Name</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
-		<key>PayloadDescription</key>
-		<string>Skips the Siri Setup pop-up window</string>
 		<key>PayloadDisplayName</key>
-		<string>Skip Siri Setup</string>
+		<string>Skip Touch ID Setup</string>
 		<key>PayloadContent</key>
 		<array>
 			<dict>
@@ -28,14 +26,14 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>PayloadIdentifier</key>
-				<string>com.github.730571bc-0591-41d4-bc15-43e12b4c74cd.alacarte.loginwindow.dbec18a0-125c-4f53-8939-bfb0bf843914.managed</string>
+				<string>com.github.d53c8667-5493-4e37-abf4-ddf8ebe3e06f.alacarte.loginwindow.ac77a0a0-a793-0133-7ea7-000c29fd99e8.managed</string>
 				<key>PayloadEnabled</key>
 				<true/>
 				<key>PayloadUUID</key>
-				<string>ccb73d64-5243-46d6-9d6e-7e1a9f335f12</string>
+				<string>def63523-fce9-4acd-ac15-10584c9de11e</string>
 				<key>PayloadDisplayName</key>
 				<string>Login Window</string>
-				<key>SkipSiriSetup</key>
+				<key>SkipTouchIDSetup</key>
 				<true/>
 			</dict>
 		</array>
